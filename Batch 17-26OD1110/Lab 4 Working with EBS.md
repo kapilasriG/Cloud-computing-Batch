@@ -301,6 +301,20 @@ Verified that the file you created earlier was on the newly created volume
 Lab Complete
 Congratulations! You have completed the lab.
 
+## OUTPUT 
+
+<img width="1600" height="801" alt="image" src="https://github.com/user-attachments/assets/25797d12-0041-46eb-b9ac-83790748ecce" />
+
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/98e84358-a50f-4274-a91f-f5b0f4a11d55" />
+
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/02f91015-3822-424e-bace-9b0b3f254239" />
+
+<img width="1600" height="796" alt="image" src="https://github.com/user-attachments/assets/6da51510-f67c-4f92-9f58-1fe2fd82852d" />
+
+<img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/4d6dfe39-83c3-461d-aef2-f9ef7f9b8160" />
+
+
+
 Choose End Lab at the top of this page and then click Yes to confirm that you want to end the lab.
 
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
