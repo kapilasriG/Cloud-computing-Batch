@@ -397,6 +397,24 @@ Tip: For any checks where you did not receive full points, there are sometimes h
 Lab Complete
 Congratulations! You have completed the lab.
 
+## OUTPUT
+
+<img width="1600" height="796" alt="image" src="https://github.com/user-attachments/assets/4b878d94-1f1f-4181-b157-bace34149236" />
+
+<img width="1600" height="798" alt="image" src="https://github.com/user-attachments/assets/a1c25597-8766-4fda-b6cf-82610fbdd60a" />
+
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/1832da05-5a49-4ede-9515-350d9f558365" />
+
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/530e8543-731e-46c9-ba0f-e8845a927f51" />
+
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/d6660357-3d3d-42a9-86c0-12f828456bb0" />
+
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/cf5b4b65-a2c7-42d3-9457-fc512d39c36f" />
+
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/afae75e4-e392-49c6-b2d7-9d94bfdd1f22" />
+
+
+
 Choose End Lab at the top of this page and then choose Yes to confirm that you want to end the lab.
 
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
